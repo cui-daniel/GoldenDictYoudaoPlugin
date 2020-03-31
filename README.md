@@ -1,0 +1,2 @@
+# GoldenDictYoudaoPlugin
+有道翻译的GoldenDict插件
