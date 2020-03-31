@@ -1,4 +1,4 @@
-# 有道翻译的GoldenDict插件
+# GoldenDict的有道翻译插件
 本插件依赖curl
 ### 设置
 - 打开GoldenDict
@@ -7,5 +7,5 @@
 - 勾选Enable
 - 设置Type为Html
 - 设置Name
-- 设置Command Line为bash <path>/youdao.plugin.sh %GDWORD%
+- 设置Command Line为bash 路径/youdao.plugin.sh %GDWORD%
 - 点击OK完成设置
